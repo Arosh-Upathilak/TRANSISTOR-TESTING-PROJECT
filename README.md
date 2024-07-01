@@ -106,8 +106,3 @@ The 555 timer is used in various applications, including:
 6. Touch or proximity switches
 7. LED flashers and light effects
 
-## Project Images
-Include all the images related to the project here.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
